@@ -18,4 +18,4 @@
 >
 보스 클리어 체크 박스 만들기
 
-https://liberationnacho.github.io/Liberation-nacho/
+[https://liberationnacho.github.io/Liberation-nacho/](https://henac-geon.github.io/Liberation-nacho/)
